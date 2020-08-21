@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Wesley](https://wesleymends.com.br), a Software Developer 🚀 from Brazil!
+## Hi there 👋, I'm [Wesley](https://wesleymendes.com.br), a Software Developer 🚀 from Brazil!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesgtox/)](https://www.linkedin.com/in/wesgtox/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/wesgtox)](https://twitter.com/wesgtox)
@@ -43,4 +43,4 @@
 ![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=WesGtoX&show_icons=true&hide_border=true)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=WesGtoX.WesGtoX)
-[![HitCount](http://hits.dwyl.com/WesGtoX/WesGtoX.svg)](http://hits.dwyl.com/WesGtoX/WesGtoX)
+[![HitCount](http://hits.dwyl.com/wesgtox/wesgtox.svg)](http://hits.dwyl.com/wesgtox/wesgtox)
