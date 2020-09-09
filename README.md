@@ -43,4 +43,3 @@
 ![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=WesGtoX&show_icons=true&hide_border=true)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=WesGtoX.WesGtoX)
-[![HitCount](http://hits.dwyl.com/wesgtox/wesgtox.svg)](http://hits.dwyl.com/wesgtox/wesgtox)
