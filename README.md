@@ -40,6 +40,8 @@
 
 ---
 
-![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=WesGtoX&show_icons=true&hide_border=true)
+![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=WesGtoX&show_icons=true&hide_border=true&theme=tokyonight)
+
+[![Wesley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WesGtoX&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=WesGtoX.WesGtoX)
