@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm [Wesley](https://wesleymendes.com.br), a Software Developer 🚀 from Brazil!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesgtox/)](https://www.linkedin.com/in/wesgtox/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Wesley%20Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesgtox/)](https://www.linkedin.com/in/wesgtox/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/wesgtox)](https://twitter.com/wesgtox)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wesgtox)](https://www.instagram.com/wesgtox)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wes.mendes21@gmail.com)](mailto:wes.mendes21@gmail.com)
@@ -16,7 +16,6 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Telegram](https://t.me/wesgtox);
 - 😄 Pronouns: he/his;
-- ⚡ Fun fact: I've worked as a Designer.
 
 
 **Languages and Tools:**  
@@ -40,7 +39,7 @@
 
 ---
 
-![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=WesGtoX&show_icons=true&hide_border=true&theme=tokyonight)
+[![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=WesGtoX&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)](https://github.com/WesGtoX)
 
 [![Wesley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WesGtoX&layout=compact&hide_border=true&theme=tokyonight)](https://wakatime.com/@WesGtoX)
 
