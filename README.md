@@ -44,3 +44,4 @@
 [![Wesley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WesGtoX&layout=compact&hide_border=true&theme=tokyonight)](https://wakatime.com/@WesGtoX)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=WesGtoX.WesGtoX)
+[![wakatime](https://wakatime.com/badge/user/7bdf898e-7280-4b79-b49e-b36c574fa310.svg)](https://wakatime.com/@7bdf898e-7280-4b79-b49e-b36c574fa310)
