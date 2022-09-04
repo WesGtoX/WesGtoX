@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Wesley](https://wesleymendes.com.br), a Software Developer 🚀 from Brazil!
+## Hi there 👋, I'm [Wesley](https://wesleymendes.com), a Software Engineer 🚀 from Brazil!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Wesley%20Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesgtox/)](https://www.linkedin.com/in/wesgtox/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/wesgtox)](https://twitter.com/wesgtox)
@@ -20,22 +20,25 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/arduino/arduino.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/archlinux/archlinux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/figma/figma.png"></code>
+<code><img height="20" src="./icons/python.png"></code>
+<code><img height="20" src="./icons/django.png"></code>
+<code><img height="20" src="./icons/flask.png"></code>
+<code><img height="20" src="./icons/go.png"></code>
+<code><img height="20" src="./icons/javascript.png"></code>
+<code><img height="20" src="./icons/react.png"></code>
+<code><img height="20" src="./icons/postgresql.png"></code>
+<code><img height="20" src="./icons/mysql.png"></code>
+<code><img height="20" src="./icons/redis.png"></code>
+<code><img height="20" src="./icons/docker.png"></code>
+<code><img height="20" src="./icons/kubernetes.png"></code>
+<code><img height="20" src="./icons/git.png"></code>
+<code><img height="20" src="./icons/aws.png"></code>
+<code><img height="20" src="./icons/google-cloud.png"></code>
+<code><img height="20" src="./icons/arduino.png"></code>
+<code><img height="20" src="./icons/terminal.png"></code>
+<code><img height="20" src="./icons/archlinux.png"></code>
+<code><img height="20" src="./icons/linux.png"></code>
+<code><img height="20" src="./icons/figma.png"></code>
 
 ---
 
