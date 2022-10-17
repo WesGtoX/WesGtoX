@@ -3,19 +3,18 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Wesley%20Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesgtox/)](https://www.linkedin.com/in/wesgtox/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/wesgtox)](https://twitter.com/wesgtox)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wesgtox)](https://www.instagram.com/wesgtox)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wes.mendes21@gmail.com)](mailto:wes.mendes21@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:wes_mendes@hotmail.com)](mailto:wes_mendes@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley@wesleymendes.com.br)](mailto:wesley@wesleymendes.com.br)
 [![GitHub followers](https://img.shields.io/github/followers/WesGtoX?label=Follow&style=social)](https://github.com/WesGtoX?tab=followers)
 
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on [Atados](https://github.com/atados);
+- 💻 I’m currently working on [Routable](https://github.com/routablehq);
 - 🌱 I’m currently learning [Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) and [Kubernetes](https://kubernetes.io/);
 - 👯 I'm looking to collaborate on open source projects;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: [Telegram](https://t.me/wesgtox);
-- 😄 Pronouns: he/his;
+- 😄 Pronouns: he/him;
 
 
 **Languages and Tools:**  
