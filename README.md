@@ -9,7 +9,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on [Atados](https://github.com/atados);
+- 💻 I’m currently working with Python and Go;
 - 🌱 I’m currently learning [Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) and [Kubernetes](https://kubernetes.io/);
 - 👯 I'm looking to collaborate on open source projects;
 - 💬 Ask me about anything, I'm happy to help;
